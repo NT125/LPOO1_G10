@@ -8,42 +8,41 @@ namespace ClasesBase
     public class Edificio
     {
         private int edifCodigo;
-        private string edif_Nombre;
-        private string edif_Direccion;
-        private string edif_Administrador;
-        private string edif_Telefono;
-        
-        
 
         public int EdifCodigo
         {
-            get { return EdifCodigo; }
-            set { EdifCodigo = value; }
+            get { return edifCodigo; }
+            set { edifCodigo = value; }
         }
+        private string edifNombre;
 
-        public string Edif_Nombre
+        public string EdifNombre
         {
-            get { return Edif_Nombre; }
-            set { Edif_Nombre = value; }
+            get { return edifNombre; }
+            set { edifNombre = value; }
         }
+        private string edifDireccion;
 
-        public string Edif_Direccion
+        public string EdifDireccion
         {
-            get { return Edif_Direccion; }
-            set { Edif_Direccion = value; }
+            get { return edifDireccion; }
+            set { edifDireccion = value; }
         }
+        private string edifAdministrador;
 
-        public string Edif_Administrador
+        public string EdifAdministrador
         {
-            get { return Edif_Administrador; }
-            set { Edif_Administrador = value; }
+            get { return edifAdministrador; }
+            set { edifAdministrador = value; }
         }
+        private string edifTelefono;
 
-        public string Edif_Telefono
+        public string EdifTelefono
         {
-            get { return Edif_Telefono; }
-            set { Edif_Telefono = value; }
+            get { return edifTelefono; }
+            set { edifTelefono = value; }
         }
+   
         
     }
 }
