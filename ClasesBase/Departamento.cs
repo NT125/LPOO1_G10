@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ClasesBase
 {
-    class Departamento
+    public class Departamento
     {
         private int deptoCodigo;
         public int DeptoCodigo

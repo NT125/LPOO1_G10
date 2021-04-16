@@ -5,8 +5,9 @@ using System.Text;
 
 namespace ClasesBase
 {
-    class Usuario
+    public class Usuario
     {
+
         private int usuId;
 
         public int UsuId
@@ -36,11 +37,24 @@ namespace ClasesBase
             set { usuApellidoNombre = value; }
         }
         private int rolCodigo;
-
+   
         public int RolCodigo
         {
             get { return rolCodigo; }
             set { rolCodigo = value; }
         }
+
+
+        public Usuario(string userName, string passowrd)
+        {
+            UsuNombreUsuario = userName;
+            UsuContrasenia = passowrd;
+        }
+
+        public Usuario()
+        { }
+
+       
+
     }
 }

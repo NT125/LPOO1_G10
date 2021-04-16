@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ClasesBase
 {
-    class Inquilino
+    public class Inquilino
     {
         private int inqCodigo;
 

@@ -9,3 +9,6 @@ C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOO1_GRUPO10\Vistas\obj\x8
 C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOO1_GRUPO10\Vistas\obj\x86\Debug\Vistas.exe
 C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOO1_GRUPO10\Vistas\obj\x86\Debug\Vistas.pdb
 C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOO1_GRUPO10\Vistas\obj\x86\Debug\Vistas.frmLogin.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOO1_GRUPO10\Vistas\bin\Debug\LPOO1_GRUPO10.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOO1_GRUPO10\Vistas\bin\Debug\LPOO1_GRUPO10.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\LPOO1_GRUPO10\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
